@@ -1,0 +1,12 @@
+2021-12-30 04:26:48 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2021-12-30 04:26:48 - TextLog: INFO: TShock 4.5.12.0 (Herrscher of Logic) now running.
+2021-12-30 04:26:48 - TShock: INFO: AutoSave Enabled
+2021-12-30 04:26:48 - TShock: INFO: Backups Enabled
+2021-12-30 04:26:48 - TShock: INFO: Welcome to TShock for Terraria!
+2021-12-30 04:26:48 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-12-30 04:26:48 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-12-30 05:22:00 - TShock: INFO: Shutting down safely. To force shutdown, send SIGINT (CTRL + C) again.
+2021-12-30 05:22:00 - Utils: INFO: Broadcast: Saving world...
+2021-12-30 05:22:00 - Utils: INFO: Broadcast: World saved.
+2021-12-30 05:22:00 - SaveManager: INFO: World saved at ()
+2021-12-30 05:22:00 - Utils: INFO: Broadcast: Server console interrupted!
