@@ -1,0 +1,10 @@
+[12/30/21 04:21:34] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/30/21 04:21:34] [Server API] Verbose: 	Command line: /home/pi/Downloads/Terraria_server/TerrariaServer.exe
+[12/30/21 04:21:34] [Server API] Verbose: 	OS: Unix 5.10.63.7 (64bit: False)
+[12/30/21 04:21:34] [Server API] Verbose: 	Mono: True
+[12/30/21 04:21:35] [Server API] Info: Plugin TShock v4.5.12.0 (by The TShock Team) initiated.
+[12/30/21 04:26:47] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/30/21 04:26:47] [Server API] Verbose: 	Command line: /home/pi/Downloads/Terraria_server/TerrariaServer.exe
+[12/30/21 04:26:47] [Server API] Verbose: 	OS: Unix 5.10.63.7 (64bit: False)
+[12/30/21 04:26:47] [Server API] Verbose: 	Mono: True
+[12/30/21 04:26:48] [Server API] Info: Plugin TShock v4.5.12.0 (by The TShock Team) initiated.

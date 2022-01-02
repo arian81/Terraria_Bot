@@ -1,1 +1,7 @@
 ./token.txt
+./db.json
+./assets
+./ServerLog.txt
+./todo.txt
+./tshock
+.env

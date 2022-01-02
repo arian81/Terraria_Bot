@@ -13,6 +13,7 @@ def checkStatus():
                 return False
         except TypeError:
             pass
+client = discord.Client()
 bot = commands.Bot(command_prefix="/")
 
 
